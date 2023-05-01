@@ -1,7 +1,7 @@
 # English🇬🇧🇺🇸🇦🇺🇨🇦🇳🇿🇮🇪
 
 # Use of this repository’s data
-Use this repository’s data, not for hacking weak passwords and accounts. You can benefit from the data of this repository by knowing whether your password is safe or not, or you can publish it so that most of the passwords are strong and difficult to crack. 
+Use this repository’s data for good,  not for hacking weak passwords and accounts. You can benefit from the data of this repository by knowing whether your password is safe or not, or you can publish it so that most of the passwords are strong and difficult to crack. 
 
 # Arabic/العربية🇪🇬🇸🇦🇮🇶🇾🇪🇯🇴🇦🇪🇴🇲🇶🇦🇸🇾🇸🇩🇵🇸🇱🇧🇲🇦🇩🇿🇧🇭🇩🇯🇰🇼🇱🇾🇲🇷🇹🇳🇰🇲🇸🇴
 
